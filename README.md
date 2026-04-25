@@ -99,7 +99,14 @@ Average rent is ~45% higher than median → indicating strong positive skew due 
 
 ## 📷 Dashboard Preview
 
-(Screenshots will be added)
+### Executive Overview
+![Executive Overview](page1_overview.png)
+
+### Area Market Structure
+![Area Analysis](page2_area_analysis.png)
+
+### Investment Positioning
+![Investment](page3_investment.png)
 
 ---
 
